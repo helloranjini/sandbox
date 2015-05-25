@@ -7,6 +7,7 @@ trigger HelloWorldPositionTrigger on Position__c (before insert, before update) 
     System.debug('Hi hello worldies this is for 2nd git');
     System.debug('Hi hello worldies this is for 3rd git');
     System.debug('Hi hello worldies this is for 4th git from Sandbox 2');
+    System.debug('Hi hello worldies this is for 4th git from Sandbox 3333');
     
     
 }
